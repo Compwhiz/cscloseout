@@ -1,0 +1,26 @@
+{
+  "name": "cscloseout",
+  "description": "Customer Service close out codes prototype",
+  "main": "index.js",
+  "authors": [
+    "Josh Poole <jspoole04@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Compwhiz/cscloseout",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-foundation": "~0.8.0",
+    "font-awesome": "~4.5.0"
+  }
+}

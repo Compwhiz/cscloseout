@@ -1,0 +1,35 @@
+{
+  "name": "cscloseout",
+  "version": "1.0.0",
+  "description": "Customer Service close out codes prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Compwhiz/cscloseout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Compwhiz/cscloseout/issues"
+  },
+  "homepage": "https://github.com/Compwhiz/cscloseout#readme",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "connect": "^3.4.1",
+    "serve-static": "^1.10.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^3.0.0",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-sass": "^2.2.0",
+    "gulp-watch": "^4.3.5",
+    "main-bower-files": "^2.11.1",
+    "merge-stream": "^1.0.0",
+    "wiredep": "^3.0.0"
+  }
+}
